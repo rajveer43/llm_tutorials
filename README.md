@@ -7,7 +7,6 @@ Welcome to the Large Language Model Tutorials Repository! This repository is a c
 1. [Getting Started](#getting-started)
 2. [Tutorials](#tutorials)
 3. [Contributing](#contributing)
-4. [License](#license)
 
 ## Getting Started
 
