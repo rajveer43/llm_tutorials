@@ -37,7 +37,7 @@ cd llm_tutorials
 jupyter notebook
 ```
 
-5. Browse and run the Jupyter notebooks to explore various topics related to large language models.
+5. Browse notebooks in notebooks folderand run the Jupyter notebooks to explore various topics related to large language models.
 6. You can also run this notebooks in google colab.
 
 ## Tutorials
