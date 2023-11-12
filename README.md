@@ -53,6 +53,7 @@ In this repository, you'll find a variety of Jupyter notebooks covering the foll
 - Language Translation with GPT-3.5
 - Ethics and Considerations in Working with Large Language Models
 - AI Safety with Large Lanuage Models
+- AI Conciousness with LLMs 
 
 Feel free to explore, learn, and experiment with these tutorials. We encourage you to use the notebooks as a foundation for your own projects and research.
 
