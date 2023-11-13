@@ -1,6 +1,6 @@
 # Large Language Model Tutorials(LLM Tutorials) Repository
 
-Welcome to the Large Language Model Tutorials Repository! This repository is a collection of Jupyter notebooks designed to help you understand and work with large language models, such as GPT-3.5. Whether you're a developer, researcher, or just curious about these powerful language models, you'll find resources here to guide you through various tasks and applications.
+Welcome to the Large Language Model Tutorials Repository! This repository is a collection of Jupyter notebooks designed to help you understand and work with large language models, such as GPT-3.5. It will also include tutorials of open-source models. Whether you're a developer, researcher, or just curious about these powerful language models, you'll find resources here to guide you through various tasks and applications.
 
 ## Table of Contents
 
