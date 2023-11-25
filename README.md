@@ -66,4 +66,6 @@ We welcome contributions to this repository! If you have created your own tutori
 3. Make your changes and commit them.
 4. Submit a pull request with a clear description of your contributions.
 
-Your contributions can help make this repository an even more valuable resource for the community.
+Your contributions can help make this repository an even more valuable resource for the community. 
+
+Happy Coding!
